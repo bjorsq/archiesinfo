@@ -1,1 +1,2 @@
-gem "jekyll-theme-prologue"
+source "https://rubygems.org"
+gemspec
